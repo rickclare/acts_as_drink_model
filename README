@@ -1,1 +1,3 @@
-Acts as a drink model, with English and Welsh translated fields
+Acts as Drink Model Plugin
+
+Activerecord model, acts as a drink model, with English and Welsh translated fields
